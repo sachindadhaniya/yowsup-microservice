@@ -24,7 +24,7 @@ pip3 install nameko
 pip3 install flask
 pip3 install flasgger
 pip3 install pexpect
-# git+https://github.com/tgalal/yowsup@master works fine
+# git+https://github.com/sachindadhaniya/yowsup@master works fine
 # pip3 install git+https://github.com/sachindadhaniya/yowsup@master
 
 # Install RabbitMQ
